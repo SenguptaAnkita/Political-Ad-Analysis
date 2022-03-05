@@ -37,3 +37,8 @@ longest_run_ad.sql
 
 ![image](https://user-images.githubusercontent.com/100951694/156871112-3da990d7-704c-4ed6-80d7-578047865e85.png)
 
+- Total political ads that targeted women
+
+women_target_ad.sql
+
+![image](https://user-images.githubusercontent.com/100951694/156871177-e7fd2c5a-7cde-404e-8835-6e93a201005c.png)
