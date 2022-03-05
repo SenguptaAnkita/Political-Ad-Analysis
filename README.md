@@ -56,3 +56,9 @@ ads_in_US_Fed_2018.sql
 youth_target_ads.sql
 
 ![image](https://user-images.githubusercontent.com/100951694/156871405-957a930e-d8a4-4ea6-bb00-2882bdf648a0.png)
+
+- Did targeting only women imply more impression?
+
+women_target_effectiveness.sql
+
+![image](https://user-images.githubusercontent.com/100951694/156871528-f7a403a3-ec7f-4677-824f-45f4eb2d9982.png)
