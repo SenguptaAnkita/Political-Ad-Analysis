@@ -43,7 +43,7 @@ women_target_ad.sql
 
 ![image](https://user-images.githubusercontent.com/100951694/156871177-e7fd2c5a-7cde-404e-8835-6e93a201005c.png)
 
-- 	6. Total ads by each political ad agency for the US Federal Elections of 2018
+- Total ads by each political ad agency for the US Federal Elections of 2018
 
 ads_in_US_Fed_2018.sql
 
