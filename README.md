@@ -51,3 +51,8 @@ ads_in_US_Fed_2018.sql
 
 ![image](https://user-images.githubusercontent.com/100951694/156871288-dc174b01-71de-42be-9e2e-a18ceda36a23.png)
 
+- How many ad campaigns targeted the youth in their agenda?
+
+youth_target_ads.sql
+
+![image](https://user-images.githubusercontent.com/100951694/156871405-957a930e-d8a4-4ea6-bb00-2882bdf648a0.png)
