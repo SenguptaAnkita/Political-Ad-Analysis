@@ -16,3 +16,7 @@ latest_most_popular_ads
 
 ![image](https://user-images.githubusercontent.com/100951694/156870756-b9bcb051-972c-4907-839b-2232216bec87.png)
 
+The regions which had less than 10k impressions i.e. the least ad reach
+least_reach_regions
+
+![image](https://user-images.githubusercontent.com/100951694/156870832-235ea96b-2461-4e54-9175-8ca23fff6b49.png)
